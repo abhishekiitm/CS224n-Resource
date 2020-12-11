@@ -1,7 +1,7 @@
 # CS224n-Resource
 
--   本`Repo`主要包括课程的作业与文档(Lecture, Note, Additional Readings, Suggested Readings)
--   CS224n-2020 并未更新 Note 部分，但课程的部分课件进行了教学顺序上的调整与修改(Suggested Readings 也相应变动)，需要注意的是三个 Guest Lecture 都是全新的。
+-   Forked from [LooperXX's Github repo](https://github.com/LooperXX/CS224n-Resource)
+-   Please refer to the above repo to get unsolved assignments as I plan to track my assignment solutions here.
 
 ## Reference
 -   [CS224N-Stanford-Winter-2019](<https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019>)
